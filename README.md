@@ -2,8 +2,6 @@
 
 ---
 
-Este sera el Github, donde tendre mis proyectos.
-
 ## About me
 
 - 📍 **Location**: Cancun-México 🇲🇽
