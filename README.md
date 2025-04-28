@@ -1,7 +1,5 @@
 # Hi, Im Enrique Steck 👋
 
----
-
 ## About me
 
 - 📍 **Location**: Cancun-México 🇲🇽
