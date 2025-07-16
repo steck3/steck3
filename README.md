@@ -4,7 +4,7 @@
 
 - 📍 **Location**: Cancun-México 🇲🇽
 - 🎓 **Major**: Ingenieria en Telematica.
-- 📧 **Email**: <steck.enrique@gmail.com>
+- 📧 **Email**: <150300119@ucaribe.edu.mx>
 - 💼 **Current position**: Analista/Desarrollador de software
 - 🌱 **Current Learning**: Software Development
 - 🏫 **University:** [Universidad del Caribe](https://www.unicaribe.mx/) 📚
